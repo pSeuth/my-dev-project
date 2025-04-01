@@ -31,3 +31,11 @@ nav {
     }
 
 }
+
+header {
+    background-color: burlywood;
+    text-align: center;
+    color: #fff;
+    padding: 3rem;
+    height: 400px;
+}
